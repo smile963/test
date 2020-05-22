@@ -8,5 +8,6 @@ namespace 测试文件
 {
     class Class1
     {
+
     }
 }
