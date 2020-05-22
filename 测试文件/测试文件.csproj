@@ -66,6 +66,7 @@
     </Compile>
     <Compile Include="Class1.cs" />
     <Compile Include="Class10.cs" />
+    <Compile Include="Class11.cs" />
     <Compile Include="Class2.cs" />
     <Compile Include="Class4.cs" />
     <Compile Include="Class5.cs" />
