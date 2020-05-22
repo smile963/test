@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace 测试文件
 {
-    class Class8
+    class PQX
     {
     }
 }
