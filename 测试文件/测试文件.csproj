@@ -73,6 +73,7 @@
     <Compile Include="Class6.cs" />
     <Compile Include="Class7.cs" />
     <Compile Include="Class9.cs" />
+    <Compile Include="Classx.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
