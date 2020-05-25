@@ -1,9 +1,13 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-public class Class1
+namespace 测试文件
 {
-	public Class1()
-	{
-        // 李蒙
-	}
+    class Class19
+    {
+        //覃丹露
+    }
 }
